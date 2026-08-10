@@ -1,0 +1,22 @@
+Mutation	Nucleotide change	Amino acid change	Resistance	PMID
+acrR p.P161R	CCG -> CGG	P -> R	Fluoroquinolone	12936981
+acrR p.G164A	GGC -> GCC	G -> A	Fluoroquinolone	12936981
+acrR p.F172S	TTC -> TCC	F -> S	Fluoroquinolone	12936981
+acrR p.R173G	CGA -> GGG	R -> G	Fluoroquinolone	12936981
+acrR p.L195V	CTC -> GTC	L -> V	Fluoroquinolone	12936981
+acrR p.F197I	TTT -> ATT	F -> I	Fluoroquinolone	12936981
+acrR p.K201M	AAG -> ATG	K -> M	Fluoroquinolone	12936981
+ompK36 p.N49S	AAC -> AGC	N -> S	Cephalosporins	25245001
+ompK36 p.L59V	CTT -> GTA	L -> V	Cephalosporins	25245001
+ompK36 p.G189T	GGC -> ACC	G -> T	Cephalosporins	25245001
+ompK36 p.F198Y	TTC -> TAC	F -> Y	Cephalosporins	25245001
+ompK36 p.F207Y	TTC -> TAT	F -> Y	Cephalosporins	25245001
+ompK36 p.A217S	GCT -> TCT	A -> S	Carbapenem	25245001
+ompK36 p.T222L	ACC -> CTT	T -> L	Cephalosporins	25245001
+ompK36 p.D223G	GAC -> GGC	D -> G	Cephalosporins	25245001
+ompK36 p.E232R	GAA -> CGT	E -> R	Cephalosporins	25245001
+ompK36 p.N304E	AAC -> GAA	N -> E	Cephalosporins	25245001
+ompK37 p.I70M	ATT -> ATG	I -> M	Carbapenem	22282462
+ompK37 p.I128M	ATT -> ATG	I -> M	Carbapenem	22282462
+ompK37 p.N230G	AAC -> GGC	N -> G	Carbapenem	22282462
+parC p.S80I	AGT -> ATC	S -> I	Ciprofloxacin	22633335
